@@ -3,6 +3,8 @@ A Python-based Telegram bot that randomly selects an item from a list provided b
 Users can add multiple items and when they send the "done" message, 
 the bot will randomly pick and display one item from the list.
 
+![CoverImage](https://github.com/thetnaing-dh/Random-Item-Picker-Telegram-Bot/blob/main/tele_bot.png?raw=true)
+
 ## Features
 * Interactive conversation with the bot
 * Collect multiple items from users
